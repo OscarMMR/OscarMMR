@@ -23,4 +23,4 @@ Profesional con 12 años en manejo de bases de datos
 - **Email:** oskrmelendez@gmail.com
 
 ---
-© [Año Actual] [Tu Nombre]. Todos los derechos reservados.
+© 2024 Oscar Mauricio Melendez. Todos los derechos reservados.
