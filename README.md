@@ -2,32 +2,25 @@
 
 ### Sobre Mí
 
-Profesional con [Años de Experiencia] en el campo de [Tu Industria]. Especializado en [Tu Especialidad] y apasionado por [Tu Interés Profesional].
+Profesional con 12 años en manejo de bases de datos 
 
-- **Rol Actual:** [Tu Rol]
-- **Empresa:** [Tu Empresa]
-- **Ubicación:** [Tu Ubicación]
+- **Rol Actual:** Analista de Servicio N2
+- **Empresa:** Asistencia Movil SAS
+- **Ubicación:** Bucaramanga
 
 ### Competencias
 
-- **Lenguajes de Programación:** Python, Java, SQL
-- **Frameworks y Librerías:** Angular, Django, Spring
-- **Herramientas:** Git, Jenkins, AWS
+- **Lenguajes de Programación:** Python (Básico), MySQL, PHP, Bootstrap
 
 ### Proyectos Destacados
 
-1. **[Nombre del Proyecto]**
-   - Descripción breve del proyecto.
-   - Tecnologías utilizadas: [Tecnologías]
-
-2. **[Nombre del Proyecto]**
-   - Descripción breve del proyecto.
-   - Tecnologías utilizadas: [Tecnologías]
+1. *Data Empresas*
+   - Sistema para la recolección de datos de la empresa y los  casos registrados bajo un número de ticket
+   - Tecnologías utilizadas: PHP
 
 ### Contacto
 
-- **Email:** [Tu Email]
-- **LinkedIn:** [Tu LinkedIn]
+- **Email:** oskrmelendez@gmail.com
 
 ---
 © [Año Actual] [Tu Nombre]. Todos los derechos reservados.
